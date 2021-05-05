@@ -1,0 +1,26 @@
+html,
+body {
+    height: 100%;
+    background-color: #eee;
+}
+
+body {
+    margin: 0;
+}
+
+#MdPreview {
+    .TextareaX {
+        textarea {
+            border-radius: 0.5rem;
+        }
+    }
+}
+
+.Grid-2 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+
+    .Column {
+        padding: 0.5rem;
+    }
+}
