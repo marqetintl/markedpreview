@@ -10,16 +10,16 @@
     },
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/marqetintl/markedpreview.git"
     },
     "keywords": [
         "react"
     ],
     "author": "Michaël Gainyo <michaelgainyo@gmail.com>",
     "bugs": {
-        "url": "https://github.com/issues"
+        "url": "https://github.com/marqetintl/markedpreview/issues"
     },
-    "homepage": "https://github.com",
+    "homepage": "https://github.com/marqetintl/markedpreview",
     "eslintConfig": {
         "extends": [
             "react-app",
