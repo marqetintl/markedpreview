@@ -2,6 +2,7 @@
     "name": "markedpreview",
     "version": "0.1.0",
     "description": "",
+    "main": "./build/index.html",
     "scripts": {
         "start": "react-scripts start",
         "build": "react-scripts build",
