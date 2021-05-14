@@ -1,6 +1,6 @@
 import marked from "marked";
 import { useState } from "react";
-import TextareaX from "../textareax/src";
+import TextareaX from "@miq/textareax";
 
 import "./style.scss";
 
